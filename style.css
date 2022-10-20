@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+background:url(blaz-photo-aNDOKntGD0c-unsplash.jpg);
+  background-size: 100% 100%;
+}
+.halloween {
+  background-color: #640064;
+  color: tomato;
+  border: 10px solid #ff5900;
+  margin: 20px;
+  padding: 20px;
+   font-family: 'Bungee Spice';font-size: 22px;
+  text-align: center;
+}
+.halloween2 {
+  color: #ff9500;
+  margin: 20px;
+  padding: 20px;
+  font-family: 'Butcherman';font-size: 22px;
+}
+a:link, a:visted{
+text-align: center;
+  background-color: #640064;
+  color:#ff5900 ;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+
+ 
