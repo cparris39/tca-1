@@ -14,7 +14,7 @@ background:url(blaz-photo-aNDOKntGD0c-unsplash.jpg);
   text-align: center;
 }
 .halloween2 {
-  color: #ff9500;
+  color: #ff0000;
   margin: 20px;
   padding: 20px;
   font-family: 'Butcherman';font-size: 22px;
@@ -23,9 +23,29 @@ a:link, a:visted{
 text-align: center;
   background-color: #640064;
   color:#ff5900 ;
-  display: inline-block;
   padding: 10px 20px;
+  display: inline-block;
+
 }
+.blur {filter: blur(4px);}
+.brightness {filter: brightness(250%);}
+.contrast {filter: contrast(180%);}
+.grayscale {filter: grayscale(100%);}
+.huerotate {filter: hue-rotate(180deg);}
+.invert {filter: invert(100%);}
+.opacity {filter: opacity(50%);}
+.saturate {filter: saturate(7);}
+.sepia {filter: sepia(100%);}
+.shadow {filter: drop-shadow(8px 8px 10px green);}
 
-
- 
+ table, th, td {
+  border:1px solid red;
+   color: #532304;
+   background-color: #640064;
+  color: tomato;
+  border: 10px solid #ff5900;
+  margin: 20px;
+  padding: 20px;
+   font-family: 'Bungee Spice';font-size: 22px;
+  text-align: center;
+}
